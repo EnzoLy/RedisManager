@@ -21,7 +21,7 @@ RedisManager is a Java library for managing the connection and communication wit
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/RedisManager.git
+git clone https://github.com/EnzoLy/RedisManager.git
 ```
 
 2. Build the project using your favorite Java build tool:
